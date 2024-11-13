@@ -4,7 +4,7 @@
 @author Kevin Haltiner <kevin.haltiner@bluewin.ch>
 @copyright 2024 Kevin Haltiner
 @license OpenGL
-@version
+@version 1.0.0
 
 */
 //Quellen: PHP Manuel, Stackoverflow
