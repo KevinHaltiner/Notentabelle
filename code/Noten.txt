@@ -1,0 +1,6 @@
+Mathematik: 5 3
+Englisch: 4 5
+ABU: 1 2
+Sport: 3 4 6
+Modul 117: 3 5
+Modul 231: 5 3
